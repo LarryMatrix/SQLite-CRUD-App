@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQLite Demo</string>
+    <string name="add_a_new_employee">Add a new Employee</string>
+    <string name="enter_employee_name">Enter Employee Name</string>
+    <string name="select_department">Select Department</string>
+    <string name="enter_employee_salary">Enter Employee Salary</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="view_employees">View Employees</string>
+
+
+    <array name="departments">
+        <item>Technical</item>
+        <item>Support</item>
+        <item>Research</item>
+        <item>Development</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </array>
+
+</resources>
